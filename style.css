@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.intro{
+    padding-top: 140px;
+    padding-bottom: 140px;
+    color: white;
+    text-align: center;
+    background: url(https://wallpapercave.com/wp/wp4117290.jpg) rgba(0, 0, 0, 50%);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+}
+
+.intro h2{
+    font-size: 35px;
+    font-family: Segoe UI;
+    font-weight: initial;
+    margin-bottom: 15px;
+}
+
+.intro h3{
+    font-size: 18px;
+    font-family: Segoe UI;
+    font-weight: lighter;
+    color: #C7C8CC;
+    margin-bottom: 80px;
+}
+
+.icon{
+    width: 60px;
+    height: 70px;
+    margin-bottom: 10px;
+}
+
+.intro h4{
+    font-size: 20px;
+    font-family: Segoe UI;
+    font-weight: initial;
+    margin-bottom: 30px;
+}
+
+.intro p{
+    font-family: Segoe UI;
+    font-weight: lighter;
+    font-size: 14px;
+    color: #C7C8CC;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
